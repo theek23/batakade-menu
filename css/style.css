@@ -1,0 +1,76 @@
+.big-shoulders-stencil-text-regular {
+  font-family: "Big Shoulders Stencil Text", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+body {
+  background-color: #111;
+  color: #fff;
+  font-family: "Big Shoulders Stencil Text", sans-serif; /* Apply font to the body */
+}
+.menu-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.menu-section {
+  margin-bottom: 30px;
+}
+.menu-section h2 {
+  background-color: #ff6600;
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.menu-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+  border-bottom: 1px solid #444;
+}
+.menu-item:last-child {
+  border-bottom: none;
+}
+.child-menu {
+  padding-left: 20px;
+}
+.child-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 0;
+}
+.menu-footer {
+  text-align: center;
+  margin-top: 30px;
+}
+.menu-footer img {
+  width: 30px;
+  margin: 0 10px;
+}
+.btn-custom {
+  background-color: #ff6600;
+  color: #fff;
+  border: 2px #833100 solid;
+}
+.btn-custom:hover {
+  background-color: #e65500;
+  color: #fff;
+}
+.menu-header h1, .menu-header h3 {
+  font-family: "Big Shoulders Stencil Text", sans-serif;
+  font-weight: 700; /* You can change the weight if needed */
+}
+
+.menu-section h2, .menu-category-title {
+  font-family: "Big Shoulders Stencil Text", sans-serif;
+  font-weight: 600; /* You can change the weight if needed */
+}
+
+.menu-item {
+  font-family: "Big Shoulders Stencil Text", sans-serif;
+  font-weight: 400; /* You can change the weight if needed */
+}

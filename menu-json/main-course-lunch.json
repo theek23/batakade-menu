@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Rice and Curry",
+    "items": [
+      { "name": "Vegetable", "price": "$10" },
+      { "name": "Fish", "price": "$12" },
+      { "name": "Egg", "price": "$8" },
+      { "name": "Chicken", "price": "$15" }
+    ]
+  },
+  {
+    "title": "Fried Rice",
+    "items": [
+      { "name": "Vegetable", "price": "$11" },
+      { "name": "Fish", "price": "$13" },
+      { "name": "Egg", "price": "$9" },
+      { "name": "Chicken", "price": "$16" }
+    ]
+  },
+  {
+    "title": "Kottu",
+    "items": [
+      { "name": "Vegetable", "price": "$12" },
+      { "name": "Fish", "price": "$14" },
+      { "name": "Egg", "price": "$10" },
+      { "name": "Chicken", "price": "$17" }
+    ]
+  },
+  {
+    "title": "Noodles",
+    "items": [
+      { "name": "Vegetable", "price": "$10" },
+      { "name": "Fish", "price": "$12" },
+      { "name": "Egg", "price": "$8" },
+      { "name": "Chicken", "price": "$15" }
+    ]
+  }
+]

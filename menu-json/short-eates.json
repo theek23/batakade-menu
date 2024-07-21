@@ -1,0 +1,15 @@
+[
+  { "name": "Fruit Salad", "price": "$13" },
+  { "name": "Cocktails", "price": "$12" },
+  { "name": "Nuggets", "price": "$14" },
+  { "name": "Sandwich", "price": "$13" },
+  {
+    "title": "Noodles",
+    "items": [
+      { "name": "Vegetable", "price": "$10" },
+      { "name": "Fish", "price": "$12" },
+      { "name": "Egg", "price": "$8" },
+      { "name": "Chicken", "price": "$15" }
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+[
+  { "name": "Milk Shake", "price": "$3" },
+  { "name": "Iced Tea", "price": "$2" },
+  { "name": "Orange Juice", "price": "$4" },
+  { "name": "Lemon Tea", "price": "$3" },
+  { "name": "Coffee", "price": "$5" }
+]
