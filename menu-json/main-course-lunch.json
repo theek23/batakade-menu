@@ -9,13 +9,6 @@
     ]
   },
   {
-    "title": "Fried Rice (For Lunch)",
-    "items": [
-      { "name": "Egg", "price": "Rs. 300" },
-      { "name": "Chicken", "price": "Rs. 350" }
-    ]
-  },
-  {
     "title": "Fried Rice (For Dinner (4.30 PM))",
     "items": [
       { "name": "Egg half", "price": "Rs. 300" },
