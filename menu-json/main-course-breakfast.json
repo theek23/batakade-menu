@@ -2,37 +2,28 @@
   {
     "title": "Rice and Curry",
     "items": [
-      { "name": "Vegetable", "price": "$10" },
-      { "name": "Fish", "price": "$12" },
-      { "name": "Egg", "price": "$8" },
-      { "name": "Chicken", "price": "$15" }
+      { "name": "Vegetable", "price": "Rs. 180" },
+      { "name": "Fish", "price": "Rs. 230" },
+      { "name": "Egg", "price": "Rs. 230" },
+      { "name": "Chicken", "price": "Rs. 280" }
     ]
   },
   {
-    "title": "Fried Rice",
+    "title": "Bread 1/2",
     "items": [
-      { "name": "Vegetable", "price": "$11" },
-      { "name": "Fish", "price": "$13" },
-      { "name": "Egg", "price": "$9" },
-      { "name": "Chicken", "price": "$16" }
+      { "name": "With Gravy", "price": "Rs. 220" }
     ]
   },
+
+  { "name": "Milk Rice 01 Piece", "price": "Rs. 100" },
+
+  { "name": "Noodles", "price": "Rs. 160" },
   {
-    "title": "Kottu",
+    "title": "String Hoppers",
     "items": [
-      { "name": "Vegetable", "price": "$12" },
-      { "name": "Fish", "price": "$14" },
-      { "name": "Egg", "price": "$10" },
-      { "name": "Chicken", "price": "$17" }
-    ]
-  },
-  {
-    "title": "Noodles",
-    "items": [
-      { "name": "Vegetable", "price": "$10" },
-      { "name": "Fish", "price": "$12" },
-      { "name": "Egg", "price": "$8" },
-      { "name": "Chicken", "price": "$15" }
+      { "name": "10", "price": "Rs. 120" },
+      { "name": "15", "price": "Rs. 160" },
+      { "name": "20", "price": "Rs. 280" }
     ]
   }
 ]

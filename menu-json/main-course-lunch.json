@@ -2,37 +2,39 @@
   {
     "title": "Rice and Curry",
     "items": [
-      { "name": "Vegetable", "price": "$10" },
-      { "name": "Fish", "price": "$12" },
-      { "name": "Egg", "price": "$8" },
-      { "name": "Chicken", "price": "$15" }
+      { "name": "Vegetable", "price": "Rs. 200" },
+      { "name": "Fish", "price": "Rs. 250" },
+      { "name": "Egg", "price": "Rs. 250" },
+      { "name": "Chicken", "price": "Rs. 350" }
     ]
   },
   {
-    "title": "Fried Rice",
+    "title": "Fried Rice (For Lunch)",
     "items": [
-      { "name": "Vegetable", "price": "$11" },
-      { "name": "Fish", "price": "$13" },
-      { "name": "Egg", "price": "$9" },
-      { "name": "Chicken", "price": "$16" }
+      { "name": "Egg", "price": "Rs. 300" },
+      { "name": "Chicken", "price": "Rs. 350" }
     ]
   },
+  {
+    "title": "Fried Rice (For Dinner (4.30 PM))",
+    "items": [
+      { "name": "Egg half", "price": "Rs. 300" },
+      { "name": "Egg full", "price": "Rs. 500" },
+      { "name": "Chicken half", "price": "Rs. 400" },
+      { "name": "Chicken full", "price": "Rs. 600" },
+      { "name": "Mix half", "price": "Rs. 500" },
+      { "name": "Mix full", "price": "Rs. 700" }
+    ]
+  },
+  { "name": "Biriyani", "price": "Rs. 450" },
+
   {
     "title": "Kottu",
     "items": [
-      { "name": "Vegetable", "price": "$12" },
-      { "name": "Fish", "price": "$14" },
-      { "name": "Egg", "price": "$10" },
-      { "name": "Chicken", "price": "$17" }
-    ]
-  },
-  {
-    "title": "Noodles",
-    "items": [
-      { "name": "Vegetable", "price": "$10" },
-      { "name": "Fish", "price": "$12" },
-      { "name": "Egg", "price": "$8" },
-      { "name": "Chicken", "price": "$15" }
+      { "name": "Egg half", "price": "Rs. 400" },
+      { "name": "Egg full", "price": "Rs. 600" },
+      { "name": "Chicken half", "price": "Rs. 450" },
+      { "name": "Chicken full", "price": "Rs. 650" }
     ]
   }
 ]

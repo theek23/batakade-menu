@@ -1,15 +1,9 @@
 [
-  { "name": "Fruit Salad", "price": "$13" },
-  { "name": "Cocktails", "price": "$12" },
-  { "name": "Nuggets", "price": "$14" },
-  { "name": "Sandwich", "price": "$13" },
-  {
-    "title": "Noodles",
-    "items": [
-      { "name": "Vegetable", "price": "$10" },
-      { "name": "Fish", "price": "$12" },
-      { "name": "Egg", "price": "$8" },
-      { "name": "Chicken", "price": "$15" }
-    ]
-  }
+  { "name": "Egg Rolls", "price": "Rs. 100" },
+  { "name": "Fish Rolls", "price": "Rs. 100" },
+  { "name": "Vegetable Roti", "price": "Rs. 80" },
+  { "name": "Parata Roti", "price": "Rs. 60" },
+  { "name": "Egg Roti", "price": "Rs. 80" },
+  { "name": "Wadei", "price": "Rs. 30" },
+  { "name": "Ulundu Wadei", "price": "Rs. 60" }
 ]

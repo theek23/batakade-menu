@@ -1,7 +1,14 @@
 [
-  { "name": "Milk Shake", "price": "$3" },
-  { "name": "Iced Tea", "price": "$2" },
-  { "name": "Orange Juice", "price": "$4" },
-  { "name": "Lemon Tea", "price": "$3" },
-  { "name": "Coffee", "price": "$5" }
+  { "name": "Plain Tea", "price": "Rs. 50" },
+  { "name": "Milk Tea", "price": "Rs. 120" },
+  { "name": "Plain Coffee", "price": "Rs. 60" },
+  { "name": "Milk Coffee", "price": "Rs. 130" },
+  { "name": "Nescafe / Nestomalt / Milo", "price": "Rs. 150" },
+  {
+    "title": "Soft Drinks",
+    "items": [
+      { "name": "Buddy", "price": "Rs. 100" },
+      { "name": "Medium", "price": "Rs. 120" }
+    ]
+  }
 ]
