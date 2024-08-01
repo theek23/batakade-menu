@@ -1,9 +1,9 @@
 [
   { "name": "Plain Tea", "price": "Rs. 50" },
-  { "name": "Milk Tea", "price": "Rs. 120" },
+  { "name": "Milk Tea", "price": "Rs. 100" },
   { "name": "Plain Coffee", "price": "Rs. 60" },
   { "name": "Milk Coffee", "price": "Rs. 130" },
-  { "name": "Nescafe / Nestomalt / Milo", "price": "Rs. 150" },
+  { "name": "Nescafe / Nestomalt / Milo", "price": "Rs. 120" },
   {
     "title": "Soft Drinks",
     "items": [
