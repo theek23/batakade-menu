@@ -13,7 +13,7 @@
     "items": [
       { "name": "Egg half", "price": "Rs. 300" },
       { "name": "Egg full", "price": "Rs. 500" },
-      { "name": "Chicken half", "price": "Rs. 400" },
+      { "name": "Chicken half", "price": "Rs. 350" },
       { "name": "Chicken full", "price": "Rs. 600" },
       { "name": "Mix half", "price": "Rs. 500" },
       { "name": "Mix full", "price": "Rs. 700" }
